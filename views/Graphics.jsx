@@ -128,7 +128,7 @@ const Graphics = () => {
             
             <Text style = { theme.title }>
 
-                Procentajes
+                Porcentajes
 
             </Text>
 
